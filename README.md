@@ -1,2 +1,2 @@
-# Trabalho_Final_SisLoc
+# Sistema SisLoc
 Sistema responsável pelo controle de operações de reservas e locações de filmes .
